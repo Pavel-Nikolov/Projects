@@ -1,0 +1,5 @@
+Erik Dimitrov - in position: Practicant, salary: 300, expirience: 5
+Jesus - in position: SinBoji, salary: 69, expirience: 33
+Pavel Nikolov - in position: CEO, salary: 69000, expirience: 69
+Peyo Yavorov - in position: ZaNishtoNeStava, salary: 1, expirience: 20
+Yonni - in position: Shef, salary: 10000, expirience: 14

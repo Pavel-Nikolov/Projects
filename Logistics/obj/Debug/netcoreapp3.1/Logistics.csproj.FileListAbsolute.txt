@@ -1,0 +1,13 @@
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.csprojAssemblyReference.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfoInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfo.cs
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.CoreCompileInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.deps.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.dev.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\bin\Debug\netcoreapp3.1\Logistics.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\Logistics\obj\Debug\netcoreapp3.1\Logistics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.csprojAssemblyReference.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.AssemblyInfoInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.AssemblyInfo.cs
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.csproj.CoreCompileInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.deps.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.runtimeconfig.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.runtimeconfig.dev.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\bin\Debug\netcoreapp3.1\CarTask.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\CarTask\obj\Debug\netcoreapp3.1\CarTask.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.exe
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.deps.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.runtimeconfig.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.runtimeconfig.dev.json
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\bin\Debug\netcoreapp3.1\SportPersonsTaks.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.csprojAssemblyReference.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.AssemblyInfoInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.AssemblyInfo.cs
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.csproj.CoreCompileInputs.cache
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.dll
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.pdb
+D:\Павел\Училище (2020 - 2021)\ОПП - Практика\11-Revisoin\Revion\SportPersonsTaks\obj\Debug\netcoreapp3.1\SportPersonsTaks.genruntimeconfig.cache

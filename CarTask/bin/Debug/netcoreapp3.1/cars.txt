@@ -1,0 +1,3 @@
+Shkoda Fabia - manufactured: 2003, power: 200, price: 10000
+Golf 4 - manufactured: 1990, power: 190, price: 15000
+Lada Zhigula - manufactured: 1960, power: 100, price: 1000
